@@ -24,7 +24,7 @@ margin-top: 100px;
 
 .circle h1
 { display: flex;
-    position: absolute;
+    position: relative;
     color: #bdb9c700;
     font-weight: 900;
     font-size: 1.2em;
@@ -34,7 +34,7 @@ margin-top: 100px;
     /* top: 2rem;
     left: auto; */
     margin: 2rem;
-    padding-left: 2rem;
+    /* padding-left: 2rem; */
     padding-top: 1rem;
     text-transform: uppercase;
     user-select: none;
